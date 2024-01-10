@@ -361,7 +361,7 @@ label #cancel{
         display: flex;
         flex-direction: row-reverse;
         justify-content: space-between;
-        height: 80vh;
+        
      }
 
      .next-img{
@@ -507,7 +507,7 @@ label #cancel{
         display: flex;
         flex-direction: row-reverse;
         justify-content: space-between;
-        height: 80vh;
+        height: 600px;
      }
 
      .next-img{
